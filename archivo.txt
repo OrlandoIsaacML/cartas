@@ -1,0 +1,708 @@
+
+Datos:
+orlando CAPTAIN AMERICA isaac
+<img src='ironman.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+bruce IRON MAN banner
+<img src='ronin.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+bruce HULK banner
+<img src='cap.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+bruce HULK banner
+<img src='cap.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+clint BLACK WIDOW barton
+<img src='thor.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+bruce THOR stark
+<img src='hulk.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+bruce HAWKEYE stark
+<img src='ronin.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r CAPTAIN AMERICA stark
+<img src='cap.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r HULK stark
+<img src='hulk.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r HAWKEYE stark
+<img src='ronin.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r HULK stark
+<img src='hulk.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r CAPTAIN AMERICA stark
+<img src='cap.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r IRON MAN stark
+<img src='ironman.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r THOR stark
+<img src='thor.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r HAWKEYE stark
+<img src='ronin.png' width='60px' height='60px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r THOR stark
+<img src='thor.png'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r HAWKEYE stark
+<img src='ronin.png' width='150px' height='150px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r HAWKEYE stark
+<img src='ronin.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r HAWKEYE stark
+<img src='ronin.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+r IRON MAN stark
+<img src='ironman.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando HULK stark
+<img src='hulk.png'> width='158px' height='158px'
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN AMERICA stark
+<img src='cap.png'> width='158px' height='158px'
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando HULK stark
+<img src='hulk.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando HAWKEYE stark
+<img src='ronin.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando IRON MAN stark
+<img src='ironman.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando THOR stark
+<img src='thor.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando THOR stark
+<img src='thor.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando THOR stark
+<img src='thor.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+qqqqq THOR qq
+<img src='thor.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+kenia IRON MAN mendoza
+<img src='ironman.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando THOR stark
+<img src='thor.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN AMERICA barton
+<img src='cap.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN AMERICA banner
+<img src='cap.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando THOR barton
+<img src='thor.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando HULK barton
+<img src='hulk.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN AMERICA isaac
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN AMERICA stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando QUICKSILVER stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN AMERICA stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando BLACK WIDOW stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN AMERICA stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando WASP stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando HULK stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando BLACK WIDOW stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando WINTER SOLDIER stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando BLACK WIDOW stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando BLACK PANTHER stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando BLACK WIDOW stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando DR.STRANGE stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando WINTER SOLDIER stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN AMERICA stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando THOR stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando THOR stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando WAR MACHINE stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando HULK stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN MARVEL stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando DR.STRANGE stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando QUICKSILVER stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando WAR MACHINE stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando HULK stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando WAR MACHINE stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN AMERICA stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando QUICKSILVER stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando  stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando ANT-MAN stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando THOR stark
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando BLACK WIDOW stark
+
+<img src='widow.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN AMERICA isaac
+
+<img src='cap2.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando CAPTAIN MARVEL isaac
+
+<img src='mar.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+ORLANDO ISAAC   BLACK PANTHER  MOZQUEDA LOPEZ  
+
+<img src='bp.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+SALAMANCA VISION  GUANAJUATO 
+
+<img src='vision.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+GUANAJUATO BLACK WIDOW  MEXICO
+
+<img src='widow.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+SALAMANCA BLACK WIDOW  CETIS.62
+
+<img src='widow.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+DESAPEJEC HULK  DESPAJES
+
+<img src='hulk.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+DESAPEJEC CAPTAIN AMERICA  DESPAJES
+
+<img src='cap.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+DESAPEJEC SPIDER-MAN  DESPAJES
+
+<img src='spidey.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+DESAPEJEC BLACK PANTHER  DESPAJES
+
+<img src='bp.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+DESAPEJEC VISION  DESPAJES
+
+<img src='vision.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+DESAPEJEC SACRLET WITCH  DESPAJES
+
+<img src='wanda.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+4F HULK  PROGRAMACION
+
+<img src='hulk.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+4F ANT-MAN  PROGRAMACION
+
+<img src='ant.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+SERVIDOR DR.STRANGE  CLIENTE
+
+<img src='dr.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+SERVIDOR VISION  CLIENTE
+
+<img src='vision.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE VISION  XAMM
+
+<img src='vision.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE WAR MACHINE  XAMM
+
+<img src='wm.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE HULK  XAMM
+
+<img src='hulk.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE WAR MACHINE  XAMM
+
+<img src='wm.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE ANT-MAN  XAMM
+
+<img src='ant.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE VISION  XAMM
+
+<img src='vision.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE DR.STRANGE  XAMM
+
+<img src='dr.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE SACRLET WITCH  XAMM
+
+<img src='wanda.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE WAR MACHINE  XAMM
+
+<img src='wm.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE WAR MACHINE  XAMM
+
+<img src='wm.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE IRON MAN  XAMM
+
+<img src='ironman.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE CAPTAIN AMERICA  XAMM
+
+<img src='cap.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE CAPTAIN AMERICA  XAMM
+
+<img src='cap.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE QUICKSILVER  XAMM
+
+<img src='quik.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE WINTER SOLDIER  XAMM
+
+<img src='winter.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE IRON MAN  XAMM
+
+<img src='ironman.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE CAPTAIN AMERICA  XAMM
+
+<img src='cap.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE ANT-MAN  XAMM
+
+<img src='ant.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+APACHE DR.STRANGE  XAMM
+
+<img src='dr.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION QUICKSILVER  4F
+
+<img src='quik.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION WAR MACHINE  4F
+
+<img src='wm.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION BLACK WIDOW  4F
+
+<img src='widow.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION BLACK WIDOW  4F
+
+<img src='widow.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION CAPTAIN AMERICA  4F
+
+<img src='cap.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION HAWKEYE  4F
+
+<img src='ronin.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION HAWKEYE  4F
+
+<img src='ronin.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION CAPTAIN MARVEL  4F
+
+<img src='mar.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION HULK  4F
+
+<img src='hulk.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION BLACK PANTHER  4F
+
+<img src='bp.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION WAR MACHINE  4F
+
+<img src='wm.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION WASP  4F
+
+<img src='wasp.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION   QUICKSILVER  4F
+
+<img src='quik.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION BLACK PANTHER  4F
+
+<img src='bp.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION BLACK WIDOW  4F
+
+<img src='widow.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION IRON MAN  4F
+
+<img src='ironman.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION QUICKSILVER  4F
+
+<img src='quik.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION WAR MACHINE  4F
+
+<img src='wm.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION WAR MACHINE  4F
+
+<img src='wm.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION THOR  4F
+
+<img src='thor.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION BLACK WIDOW  4F
+
+<img src='widow.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION CAPTAIN MARVEL  4F
+
+<img src='mar.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION   WAR MACHINE  4F
+
+<img src='wm.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION   HAWKEYE  4F
+
+<img src='ronin.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION   VISION  4F
+
+<img src='vision.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION   HULK  4F
+
+<img src='hulk.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION   CAPTAIN AMERICA  4F
+
+<img src='cap2.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION   BLACK WIDOW  4F
+
+<img src='widow.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION   CAPTAIN AMERICA  4F
+
+<img src='cap.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION   BLACK PANTHER  4F
+
+<img src='bp.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+PROGRAMACION   QUICKSILVER  4F
+
+<img src='quik.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
+
+Datos:
+orlando THOR stark
+
+<img src='thor.png' width='158px' height='158px'>
+⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀ ⚀
